@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Mark Pro';
+    src: url('MarkPro-Heavy.eot');
+    src: url('MarkPro-Heavy.eot') format('embedded-opentype'),
+        url('MarkPro-Heavy.woff2') format('woff2'),
+        url('MarkPro-Heavy.woff') format('woff'),
+        url('MarkPro-Heavy.ttf') format('truetype'),
+        url('MarkPro-Heavy.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
