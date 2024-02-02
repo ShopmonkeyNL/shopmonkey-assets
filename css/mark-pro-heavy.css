@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Mark Pro';
-    src: url('https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.eot?raw=true');
-    src: url('https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.eot?raw=true') format('embedded-opentype'),
-        url('https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.woff2?raw=true') format('woff2'),
-        url('https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.woff?raw=true') format('woff'),
-        url('https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.ttf?raw=true') format('truetype'),
-        url('https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.svg?raw=true') format('svg');
+    src: url(https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.eot?raw=true);
+    src: url(https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.eot?raw=true) format('embedded-opentype'),
+        url(https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.woff2?raw=true) format('woff2'),
+        url(https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.woff?raw=true) format('woff'),
+        url(https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.ttf?raw=true) format('truetype'),
+        url(https://github.com/ShopmonkeyNL/shopmonkey-assets/blob/main/fonts/MarkPro-Heavy.svg?raw=true) format('svg');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
